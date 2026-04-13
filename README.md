@@ -134,7 +134,7 @@ This frontend serves as a lightweight testing tool to validate server behavior i
 
 <br>
 
-## Tale showing frontend tester pages
+## Table showing frontend tester pages
 
 | Page                                                                | Description                                                                                                                                         |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
